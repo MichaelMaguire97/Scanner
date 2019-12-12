@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Scanner</string>
+    <string name="user_registration">User Registration</string>
+    <string name="user_email">User Email</string>
+</resources>
